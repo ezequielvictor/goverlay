@@ -1,5 +1,4 @@
-/// <reference types="node" />
-declare module "electron-overlay" {
+export declare module IOverlay {
 
     interface IHotkey{
         name: string;

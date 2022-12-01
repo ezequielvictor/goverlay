@@ -1,0 +1,10 @@
+{
+  "name": "electron-overlay",
+  "version": "0.1.0",
+  "description": "",
+  "main": "electron-overlay.node",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "types": "index.d.ts",
+}
